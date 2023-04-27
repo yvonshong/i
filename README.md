@@ -4,13 +4,13 @@
 
 The largest LiDAR manufacturer for autonomous vehicle. List on NASDAQ in Feb 2023.
 
-- 2022.5 - now, Fulltime Employee Algorithm Engineer
+- 2022.5 - now, 3D Vision Algorithm Engineer
 
 ## [TuSimple](http://tusimple.com/)
 
 The world's first autonomous driving stock. Major in autonomous truck. List on NASDAQ on April 2021.
 
-- 2018.9 - 2022.4, Fulltime Employee Algorithm Engineer
+- 2018.9 - 2022.4, Localization and HD Map Algorithm Engineer
 - 2018.4 - 2022.6, Intern Autonomous Driving Sensor Engineer
 
 # Education
