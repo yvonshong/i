@@ -1,6 +1,7 @@
-title: Resume
-logo: https://picx.zhimg.com/v2-5cd98f6e551adc178f1451ccc44c2267_xl.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimal
+name: Jekyll Minimal Action
+# You may pin to the exact commit or the version.
+# uses: vivi90/jekyll-minimal-action@6125abff11e26a0069b6f01c3372f8b350b2b4ce
+uses: vivi90/jekyll-minimal-action@v1.1.0
+with:
+  # Complete Jekyll command
+  command: # default is jekyll --help
