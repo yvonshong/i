@@ -47,7 +47,7 @@ Signed author for Writing for Zhihu.
 
 ## Consultant in **Relatance**
 
-<img src="https://user-images.githubusercontent.com/8537780/234847778-9806e2fa-8423-4458-88d7-1ebb9e683b4a.png" height="200" width="200" />![image](https://user-images.githubusercontent.com/8537780/234847061-4ebf834d-e3cf-471e-8196-94a0108dacd9.png)
+<img src="https://user-images.githubusercontent.com/8537780/234847061-4ebf834d-e3cf-471e-8196-94a0108dacd9.png" height="200" width="200" />
 - 2022.2 - 2023.2
 
 Consultant for RTL as an operations manager for Bitfinex/USDTether, the famous blockchain exchange and stable cryptocurrency, with social account, community, content dissemination, data analysis and report.
