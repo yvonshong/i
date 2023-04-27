@@ -36,11 +36,7 @@ The world's first autonomous driving stock. Major in autonomous truck. List on N
 
 - Toyoto Campus Autonomous Cart
 
-# Community and Freelance
-- [**Paopao Robot**](https://github.com/PaoPaoRobot), Editor, 2017.12 - now
-
-    The largest public interest organization in China to disseminate SLAM knowledge, with 40k followers. He is responsible for organizing online paper reading for the community, organizing tweets and communicating with readers for their contributions, and has been awarded as an outstanding team member for three consecutive years.
-
+# Freelance
 
 - [**Indigo Culture**](https://www.zhihu.com/org/yin-di-ge-wen-hua), Signed Author, 2023.3 - now
 
@@ -60,6 +56,10 @@ The world's first autonomous driving stock. Major in autonomous truck. List on N
 
     TA of Intelligence Car & Robotics course from the Joint Graduate School settled by MEXT of Japanese government, companies of Toyota, Nissan and Denso.
 
+# Community
+- [**Paopao Robot**](https://github.com/PaoPaoRobot), Editor, 2017.12 - now
+
+    The largest public interest organization in China to disseminate SLAM knowledge, with 40k followers. He is responsible for organizing online paper reading for the community, organizing tweets and communicating with readers for their contributions, and has been awarded as an outstanding team member for three consecutive years.
 
 
 - [**Microsoft Learn Student Ambassadors**](https://studentambassadors.microsoft.com/), Project Director, 2015.9 - 2018.8 
