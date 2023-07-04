@@ -39,8 +39,9 @@ The world's first autonomous driving stock. Major in autonomous truck. List on N
 # Freelance
 
 - [**Indigo Culture**](https://www.zhihu.com/org/yin-di-ge-wen-hua), Signed Author, 2023.3 - now
+    
+    Signed by Indigo (Leading Multi-Channel Network agency specializing in the automotive industry on Zhihu), writing articles showcasing the assisted driving features of esteemed clients such as Volvo and Volkswagen.
 
-    Signed author for Zhihu.
 
 - [**Relatance**](https://relatance.com/), Consultant, 2022.2 - 2023.2
 
