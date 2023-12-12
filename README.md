@@ -69,5 +69,5 @@ The world's first autonomous driving stock. Major in autonomous truck. List on N
 
     1. Column Writer: Authored Microsoft-related articles, amassing a following of 10k readers, as a columnist within the MSP community. Translated a series of 10 articles on Azure and Machine Learning for MSRA, earning an invitation to participate in the prestigious Microsoft Student Summer Camp held in Xi'an in 2015.
     2. Summit Director: Led the organization and management of the Shanghai 2016 Summit, while providing assistance during the Microsoft Innovation Cup China Finals and China Summit in Sanya 2015.
-    3. Organizer and Host: Successfully orchestrated the inaugural Nanjing Fourth Campus Microsoft Campus Hackathon in 2015, fostering innovation and collaboration among students in the Nanjing region.
+    3. Organizer and Host: Successfully orchestrated the inaugural Nanjing Four Schools Microsoft Campus Hackathon in 2015, fostering innovation and collaboration among students in the Nanjing region.
 
