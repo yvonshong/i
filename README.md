@@ -15,16 +15,21 @@ The world's first autonomous driving stock. Major in autonomous truck. List on N
 
 # Education
 
-- Waseda University, 2016.9 - 2018.9
+- [Waseda University](https://www.waseda.jp), 2016.9 - 2018.9
 
     Master's degree， Information
 
-- Southeast University, 2013.8 - 2017.6
+- [Southeast University](https://www.seu.edu.cn/), 2013.8 - 2017.6
 
-    Bachelor's degree, Software Engneering
+    Bachelor's degree, Software Engineering
 
 
 # Project
+- V2X System
+
+- GroundTruth System
+
+- Temporary Calibration and Online Calibration
 
 - Lidar Map Validation and Visualization
 
@@ -32,9 +37,9 @@ The world's first autonomous driving stock. Major in autonomous truck. List on N
 
 - Map Content Extraction
 
-- LiDAR Localization base on Intensity Map
+- LiDAR Localization based on Intensity Map 
 
-- Toyoto Campus Autonomous Cart
+- Toyota Campus Autonomous Cart
 
 # Freelance
 
